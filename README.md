@@ -1,16 +1,30 @@
-### Hi there 👋
+# Bom dia, Boa tarde ou Boa noite
+## good morning, good afternoon or good night
 
-<!--
-**Kazuto-neves/Kazuto-neves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+**Conhecimento razoável**   **reasonable knowledge**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__👉C,C++__
+
+__👉Python__
+
+__👉Java(desktop&mobile)__
+
+__👉HTML,CSS,JS__
+
+***
+
+**Oportunidades**   **Opportunities**
+
+>2018 – Participação da feira de tecnologia em Petrópolis/RJ 
+>
+>2018 – Participation in the technology fair in Petrópolis/RJ
+
+>2019 – Participação da OBR(Olimpíada brasileira de robótica) pela Faeterj-Petropolis, 1 lugar na Regional
+>
+>2019 – Participation in the OBR (Brazilian Robotics Olympiad) by Faeterj-Petropolis, 1 place in the Regional
+
+>2019 – Participação da feira de tecnologia em Petrópolis/RJ
+>
+>2019 – Participation in the technology fair in Petrópolis/RJ
