@@ -1,5 +1,5 @@
-# Bom dia, Boa tarde ou Boa noite
-## good morning, good afternoon or good night
+# good morning, good afternoon or good night
+## Hello my name is Christian but I adopted the username as Kazuto
 
 <div align="center">
   <a href="https://github.com/Kazuto-neves">
@@ -7,6 +7,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuto-neves&layout=compact&langs_count=7&theme=dracula"/>
   <img heigth="180em" width="790em" src="https://github-profile-trophy.vercel.app/?username=Kazuto-neves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+## Languages I know
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -31,16 +33,7 @@
 
 ***
 
-**Oportunidades**   **Opportunities**
+**conquests**
 
->2018 – Participação da feira de tecnologia em Petrópolis/RJ 
->
->2018 – Participation in the technology fair in Petrópolis/RJ
-
->2019 – Participação da OBR(Olimpíada brasileira de robótica) pela Faeterj-Petropolis, 1 lugar na Regional
->
 >2019 – Participation in the OBR (Brazilian Robotics Olympiad) by Faeterj-Petropolis, 1 place in the Regional
 
->2019 – Participação da feira de tecnologia em Petrópolis/RJ
->
->2019 – Participation in the technology fair in Petrópolis/RJ
