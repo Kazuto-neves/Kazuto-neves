@@ -1,6 +1,30 @@
 # good morning, good afternoon or good night
 ## Hello my name is Christian but I adopted the username as Kazuto
 
+  <p align="center">
+    <a href="/docs/readme_fr.md">Français </a>
+    ·
+    <a href="/docs/readme_cn.md">简体中文</a>
+    ·
+    <a href="/docs/readme_es.md">Español</a>
+    ·
+    <a href="/docs/readme_de.md">Deutsch</a>
+    ·
+    <a href="/docs/readme_ja.md">日本語</a>
+    ·
+    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
+    ·
+    <a href="/docs/readme_it.md">Italiano</a>
+    ·
+    <a href="/docs/readme_kr.md">한국어</a>
+    .
+    <a href="/docs/readme_nl.md">Nederlands</a>
+    .
+    <a href="/docs/readme_np.md">नेपाली</a>
+    .
+    <a href="/docs/readme_tr.md">Türkçe</a>
+  </p>
+
 <div align="center">
   <a href="https://github.com/Kazuto-neves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kazuto-neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
