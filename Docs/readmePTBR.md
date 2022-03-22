@@ -3,9 +3,9 @@
 
 <div align="center">
   <a href="https://github.com/Kazuto-neves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kazuto-neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuto-neves&layout=compact&langs_count=7&theme=dracula"/>
-  <img heigth="180em" width="790em" src="https://github-profile-trophy.vercel.app/?username=Kazuto-neves&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kazuto-neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuto-neves&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
+  <img heigth="180em" width="790em" src="https://github-profile-trophy.vercel.app/?username=Kazuto-neves&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
 </div>
 
 ## Linguagens de programação e de marcação que conheço
