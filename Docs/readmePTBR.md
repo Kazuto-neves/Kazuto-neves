@@ -1,5 +1,6 @@
 # Bom dia, Boa tarde ou Boa noite
-## Olá meu nome é Christian mas adotei o nome de usuário como Kazuto
+## Olá meu nome é Christian mas adotei o nome de usuário como
+![gitartwork](gitartwork.svg)
 
 <div align="center">
   <a href="https://github.com/Kazuto-neves">
