@@ -15,8 +15,8 @@
 <div align="center">
   <a href="https://github.com/Kazuto-neves">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kazuto-neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuto-neves&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800"/>
-    <img heigth="180em" width="790em" src="https://github-profile-trophy.vercel.app/?username=Kazuto-neves&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuto-neves&layout=compact&langs_count=10&theme=dracula&cache_seconds=1800"/>
+    <img heigth="180em" width="760em" src="https://github-profile-trophy.vercel.app/?username=Kazuto-neves&layout=compact&langs_count=10&theme=dracula&cache_seconds=1800"/>
   </a>
 </div>
 
