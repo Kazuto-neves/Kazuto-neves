@@ -1,6 +1,5 @@
 # good morning, good afternoon or good night
 ## Hello my name is Christian but I adopted the username as
-![gitartwork](gitartwork.svg)
 
   <p align="center">
     <a href="/Docs/readmePTBR.md">Português Brasileiro</a>
