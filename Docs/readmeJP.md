@@ -1,11 +1,15 @@
 # おはようございます, こんにちは , こんばんは
-## こんにちは私の名前は Christian, 私はカズトとしてユーザー名を採用しました
+
+## やあ！私の名前は Christian 更にのスケジュール味の
+- ### ゲーム
+- ### 曲
+- ### エレクトロニクス（ロボット工学）
 
 <div align="center">
   <a href="https://github.com/Kazuto-neves">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kazuto-neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=ja&cache_seconds=1800"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuto-neves&layout=compact&langs_count=10&theme=dracula&locale=ja&cache_seconds=1800"/>
-    <img heigth="180em" width="790em" src="https://github-profile-trophy.vercel.app/?username=Kazuto-neves&layout=compact&langs_count=10&theme=dracula&locale=ja&cache_seconds=1800"/>
+    <img heigth="180em" width="750em" src="https://github-profile-trophy.vercel.app/?username=Kazuto-neves&layout=compact&langs_count=10&theme=dracula&locale=ja&cache_seconds=1800"/>
   </a>
 </div>
 

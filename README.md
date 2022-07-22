@@ -1,5 +1,8 @@
 # good morning, good afternoon or good night
-## Hello my name is Christian but I adopted the username as
+## Hi! My name is Christian, in addition to Programming I like,
+- ### Games
+- ### Songs
+- ### Electronics (Robotics)
 
   <p align="center">
     <a href="/Docs/readmePTBR.md">Português Brasileiro</a>
