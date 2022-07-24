@@ -7,8 +7,6 @@
   <p align="center">
     <a href="/Docs/readmePTBR.md">Português Brasileiro</a>:brazil:
     ·
-    <a href="/Docs/readmeJP.md">日本</a>:jp:
-    ·
     <a href="/Docs/readmeEN.md">English</a>:us:
   </p>
 
