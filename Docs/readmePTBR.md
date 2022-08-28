@@ -12,7 +12,7 @@
   </a>
 </div>
 
-## Programming languages
+## Linguagens de programação
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
@@ -38,7 +38,7 @@
   
   ##
 
-## Databases
+## Bancos de dados
 
 <div style="display: inline_block"><br>
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -56,7 +56,7 @@
  
   ##
 
-## operational systems
+## sistemas operacionais
 
 <div style="display: inline_block"><br>
   <img align="center" alt="windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
@@ -65,7 +65,7 @@
 
   ##
  
- ## Software and Tools
+ ## Software e Ferramentas
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
