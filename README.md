@@ -1,5 +1,13 @@
-# good morning, good afternoon or good night
-### Hi! My name is Christian, in addition to Programming I like,Games,Songs and Electronics (Robotics)
+# Hello, how are you?
+(en) My name is Christian  
+(br) Meu nome e Christian
+<details>
+  <summary>Hobby</summary>
+    <p>(en)code              (br)Codificar</p>
+    <p>(en)Play              (br)Jogar</p>
+    <p>(en)Listen to music   (br)Escutar música</p>
+</details>
+
 - :grinning: Pronome: Ele/Dele
 - :man_technologist: Estudando Node.Js,.Net/AspNet e SQL
 
