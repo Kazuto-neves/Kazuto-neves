@@ -1,11 +1,13 @@
 # Hello, how are you?
 (en) My name is Christian  
-(br) Meu nome e Christian
+(br) Meu nome e Christian  
+##
+Clique aqui :point_down:
 <details>
   <summary>Hobby</summary>
-    <p>(en)code              (br)Codificar</p>
-    <p>(en)Play              (br)Jogar</p>
-    <p>(en)Listen to music   (br)Escutar música</p>
+    <li>Codificar</li>
+    <li>Jogar</li>
+    <li>Escutar música</li>
 </details>
 
 - :grinning: Pronome: Ele/Dele
