@@ -5,9 +5,11 @@
 Clique aqui :point_down:
 <details>
   <summary>Hobby</summary>
+  <ul>
     <li>Codificar</li>
     <li>Jogar</li>
     <li>Escutar música</li>
+   </ul>
 </details>
 
 - :grinning: Pronome: Ele/Dele
