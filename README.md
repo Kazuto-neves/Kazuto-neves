@@ -1,10 +1,7 @@
 # Hello, how are you?
 (en) My name is Christian  
 (br) Meu nome e Christian  
-##
-  
-<p align="center"><a href="https://open.spotify.com/user/22czrqbslipciahqe6tfesuwa"><img src="https://novatorem-7p4xkxylm-kazuto-neves.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" alt="Spotify"></a></p>
-
+## 
 Clique aqui :point_down:
 <details>
   <summary>Hobby</summary>
@@ -18,6 +15,7 @@ Clique aqui :point_down:
 - :grinning: Pronome: Ele/Dele
 - :man_technologist: Estudando Node.Js,.Net/AspNet e SQL
 
+<p align="center"><a href="https://open.spotify.com/user/22czrqbslipciahqe6tfesuwa"><img src="https://novatorem-7p4xkxylm-kazuto-neves.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" alt="Spotify"></a></p> 
 <h3 align="center">Tecnologias</h3>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
