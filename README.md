@@ -2,6 +2,9 @@
 (en) My name is Christian  
 (br) Meu nome e Christian  
 ##
+  
+<p align="center"><a href="https://open.spotify.com/user/22czrqbslipciahqe6tfesuwa"><img src="https://novatorem-7p4xkxylm-kazuto-neves.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" alt="Spotify"></a></p>
+
 Clique aqui :point_down:
 <details>
   <summary>Hobby</summary>
