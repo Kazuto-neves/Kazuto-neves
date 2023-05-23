@@ -1,7 +1,9 @@
-# Hello, how are you?
-(en) My name is Christian  
-(br) Meu nome e Christian  
-## 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=063970&height=120&section=header"/>
+</a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=063970&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Christian;I'm+from+Brazil;I'm+a+Back+End+Developer;Be+Welcome!+ツ)
+
 Clique aqui :point_down:
 <details>
   <summary>Hobby</summary>
@@ -38,14 +40,17 @@ Clique aqui :point_down:
   <a href="https://instagram.com/chriskneves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:chrismneves@hgmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/christian-das-neves-moreira-1a7bab154" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Kazuto-neves/Kazuto-neves/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
-***
+  ##
 
-**conquests**
+  **conquests**
 
 >2019 – Participation in the OBR (Brazilian Robotics Olympiad) by Faeterj-Petropolis, 1 place in the Regional
+ 
+  ![Snake animation](https://github.com/Kazuto-neves/Kazuto-neves/blob/output/github-contribution-grid-snake.svg)
+
+ <a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=063970&height=120&section=footer"/>
+</a>
+</div>
 
