@@ -43,7 +43,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
   <tr>
     <td>
       <details>
-        <summary>programming languages</summary>
+        <summary align="center">programming languages</summary>
         <div style="display: inline_block" align="center">
           <img align="center" alt="NodeJS" height="30" width="40"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
@@ -64,7 +64,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
   <tr>
     <td>
       <details>
-        <summary>operational systems</summary>
+        <summary align="center">operational systems</summary>
         <div style="display: inline_block" align="center">
           <img align="center" alt="Windows" height="30" width="40"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -77,7 +77,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
   <tr>
     <td>
       <details>
-        <summary>database</summary>
+        <summary align="center">database</summary>
         <div style="display: inline_block" align="center">
           <img align="center" alt="MySql" height="30" width="40"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
@@ -87,21 +87,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
           <img align="center" alt="SqLite" height="30" width="40"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-        </div>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <details>
-        <summary>framework</summary>
-        <div style="display: inline_block" align="center">
-          <img align="center" alt="Bootstrap" height="30" width="40"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-          <img align="center" alt="Laravel" height="30" width="40"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-          <img align="center" alt="Qt" height="30" width="40"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
         </div>
       </details>
     </td>
