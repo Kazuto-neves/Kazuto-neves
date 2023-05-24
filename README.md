@@ -20,12 +20,20 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
       <details>
         <summary>Conquests</summary>
         <ul>
-          <details>
-            <summary>2019</summary>
-            <ul>
-              <li>Participation in the OBR(Brazilian Robotics Olympiad) by Faeterj-Petropolis, 1 place in the Regional
-              </li>
-            </ul>
+            <details>
+              <summary>2019</summary>
+              <ul>
+                <li>Participation in the OBR(Brazilian Robotics Olympiad) by Faeterj-Petropolis, 1 place in the Regional
+                </li>
+              </ul>
+            </details>
+            <details>
+              <summary>2022</summary>
+              <ul>
+                <li>I started working at Stone CO
+                </li>
+              </ul>
+            </details>
         </ul>
       </details>
       <ul>
