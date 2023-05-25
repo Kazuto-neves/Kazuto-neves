@@ -7,39 +7,8 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
 
 <table align="center">
   <tr>
-    <td>
-      Clique aqui :point_down:
-      <details>
-        <summary>Hobby</summary>
-        <ul>
-          <li>Codificar</li>
-          <li>Jogar</li>
-          <li>Escutar música</li>
-        </ul>
-      </details>
-      <details>
-        <summary>Conquests</summary>
-        <ul>
-            <details>
-              <summary>2019</summary>
-              <ul>
-                <li>Participation in the OBR(Brazilian Robotics Olympiad) by Faeterj-Petropolis, 1 place in the Regional
-                </li>
-              </ul>
-            </details>
-            <details>
-              <summary>2022</summary>
-              <ul>
-                <li>I started working at Stone CO
-                </li>
-              </ul>
-            </details>
-        </ul>
-      </details>
-      <ul>
-        <li>:grinning: Pronome: Ele/Dele</li>
-        <li>:man_technologist: Estudando Node.Js,.Net/AspNet e SQL</li>
-      </ul>
+    <td align="center">
+        <img src="https://github.com/Kazuto-neves/Kazuto-neves/assets/64045767/76e402b9-de24-4144-b7a8-ddef471ee72f">
     </td>
   </tr>
   <tr>
