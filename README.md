@@ -14,7 +14,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
   <tr>
     <td>
       <p align="center"><a href="https://open.spotify.com/user/22czrqbslipciahqe6tfesuwa">
-        <img src="https://novatorem-7p4xkxylm-kazuto-neves.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" alt="Spotify"></a></p>
+        <img src="https://novatorem-7p4xkxylm-kazuto-neves.vercel.app/api/spotify?background_color=0d1117&amp" alt="Spotify"></a></p>
     </td>
   </tr>
   <tr>
@@ -72,11 +72,20 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
     <td>
       <div align="center">
         <a href="https://github.com/Kazuto-neves">
-          <img height="200vh"
-            src="https://github-readme-stats.vercel.app/api?username=Kazuto-neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
-          <img height="200vh"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuto-neves&layout=compact&langs_count=10&theme=dracula&cache_seconds=1800" />
+          <img height="150vh"
+            src="https://github-readme-stats.vercel.app/api?username=Kazuto-neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true" />
+          <img height="150vh"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuto-neves&layout=compact&langs_count=10&theme=dracula&cache_seconds=1800&hide_border=true" />
+          <img height="150vh"
+            src="https://streak-stats.demolab.com?user=kazuto-neves&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" alt="streak graph"  />
         </a>
+      </div>
+    </td>
+  </tr>
+    <tr>
+     <td>
+      <div align="center">
+        <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazuto-neves&amp;theme=dracula&no-frame=true" alt="trophy" /></a></p>
       </div>
     </td>
   </tr>
