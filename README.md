@@ -85,7 +85,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
     <tr>
      <td>
       <div align="center">
-        <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazuto-neves&amp;theme=dracula&no-frame=true" alt="trophy" /></a></p>
+        <p><a href="https://github.com/kazuto-neves/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazuto-neves&amp;theme=dracula&no-frame=true" alt="trophy" /></a></p>
       </div>
     </td>
   </tr>
