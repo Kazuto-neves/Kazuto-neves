@@ -72,9 +72,9 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
     <td>
       <div align="center">
         <a href="https://github.com/Kazuto-neves">
-          <img height="225vh"
+          <img height="200vh"
             src="https://github-readme-stats.vercel.app/api?username=Kazuto-neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true" />
-          <img height="225vh"
+          <img height="200vh"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuto-neves&layout=compact&langs_count=10&theme=dracula&cache_seconds=1800&hide_border=true" />
           <img height="340vh"
             src="https://streak-stats.demolab.com?user=kazuto-neves&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" alt="streak graph"  />
