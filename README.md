@@ -102,7 +102,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
         <a href="https://www.linkedin.com/in/christian-das-neves-moreira-1a7bab154" target="_blank">
           <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
-        <p><img src="https://github.com/Kazuto-neves/Kazuto-neves/blob/output/github-contribution-grid-snake.svg"
+        <p><img src="https://github.com/Kazuto-neves/Kazuto-neves/blob/output/dracula.svg"
             alt="Snake animation" width=100% /></p>
       </div>
     </td>
