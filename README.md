@@ -1,9 +1,9 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d7cf2&height=120&section=header" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=header" />
 </a>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Christian;I'm+from+Brazil;I'm+a+Back+End+Developer;Be+Welcome!+ツ)
+SVG](https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Christian;I'm+from+Brazil;I'm+a+Back+End+Developer;Be+Welcome!+ツ)
 
 <table align="center">
   <tr>
@@ -109,5 +109,5 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=0d7cf2&size=35&center=true&v
   </tr>
 </table>
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d7cf2&height=120&section=footer" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer" />
 </a>
